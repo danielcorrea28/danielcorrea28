@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi everyone👋, I'm Daniel</h1>
 <h3 align="center">I am a Electronic Engineer and Full Stack Developer</h3>
 I am a passionate person to learn more every day and improve myself. I studied electronic engineering and acquired programming skills that today I am improving through the practice of technologies and programming languages such as JavaScript, Python, C and the use of frameworks such as React. I enjoy learning about different cultures so I have an affinity for teamwork.
 
