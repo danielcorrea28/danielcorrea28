@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a integrator project of my course of Full Stack Web Development about an e-commerce web site.**
 
-- 🌱 I’m currently learning **JavaScript, Node, React, Assembly.**
+- 🌱 I’m currently learning **JavaScript, Node, React, MySQL.**
 
 - ⚡ Fun fact **Give me Blues music and you will got me concentrated all the day.**
 
